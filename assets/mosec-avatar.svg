@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">MOSEC Avatar</title>
+  <desc id="desc">A cybersecurity shield avatar with connected nodes.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="55%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="104" fill="#0f172a"/>
+  <path d="M256 54 406 112v114c0 102-65 193-150 232-85-39-150-130-150-232V112L256 54Z" fill="#111827" stroke="url(#g)" stroke-width="18"/>
+  <path d="M166 206h180M166 306h180M206 206v100M306 206v100" stroke="url(#g)" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="166" cy="206" r="28" fill="#38bdf8"/>
+  <circle cx="346" cy="206" r="28" fill="#22c55e"/>
+  <circle cx="206" cy="306" r="28" fill="#a78bfa"/>
+  <circle cx="306" cy="306" r="28" fill="#f59e0b"/>
+  <text x="256" y="438" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="900">MO</text>
+</svg>
