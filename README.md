@@ -5,7 +5,7 @@
 <h1 align="center">Mohammad Almashahreh</h1>
 
 <p align="center">
-  <strong>Cybersecurity student focused on bug bounty, web security, static analysis, CTF labs, and practical security research.</strong>
+  <strong>Cybersecurity student focused on bug bounty, web security, SOC analysis, cloud security, static analysis, and practical security research.</strong>
 </p>
 
 <p align="center">
@@ -16,14 +16,15 @@
     <img src="https://img.shields.io/badge/Portfolio-GitHub_Pages-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
   <img src="https://img.shields.io/badge/Focus-Web_Security-22C55E?style=for-the-badge" alt="Web Security">
-  <img src="https://img.shields.io/badge/Labs-CTF_Simulations-F97316?style=for-the-badge" alt="CTF Labs">
+  <img src="https://img.shields.io/badge/SOC-Blue_Team-38BDF8?style=for-the-badge" alt="SOC">
+  <img src="https://img.shields.io/badge/Cloud_Security-AWS%20%7C%20Azure-F97316?style=for-the-badge" alt="Cloud Security">
 </p>
 
 ---
 
 ## About Me
 
-I am a cybersecurity student building practical projects around secure coding, bug bounty methodology, web application security, Linux and Windows fundamentals, networking, and static analysis.
+I am a cybersecurity student building practical projects around secure coding, bug bounty methodology, web application security, SOC analysis, cloud security, Linux and Windows fundamentals, networking, and static analysis.
 
 My goal is to grow into a strong penetration tester and security researcher by creating hands-on labs, writing clear reports, and turning each security concept into something people can learn from.
 
@@ -31,8 +32,10 @@ My goal is to grow into a strong penetration tester and security researcher by c
 
 | Area | What I Build |
 |---|---|
-| Bug bounty | Sanitized bug reports with realistic CTF labs |
+| Bug bounty | Sanitized bug reports with realistic vulnerable-app simulations |
 | Web security | IDOR, token logic, authentication, and business logic cases |
+| SOC analysis | Log review, alert triage, detection thinking, and incident notes |
+| Cloud security | Identity, access control, storage exposure, and cloud risk basics |
 | Static analysis | Semgrep-style rules, code review examples, and safe vulnerable snippets |
 | Networking | Beginner-to-intermediate networking labs for cybersecurity |
 | System fundamentals | Linux and Windows filesystem guides |
@@ -48,9 +51,9 @@ My goal is to grow into a strong penetration tester and security researcher by c
 | [Linux Filesystem Guide](https://github.com/mialmashahreh22/linux-filesystem-guide) | Linux directories, permissions, commands, and beginner admin notes. |
 | [Vibe Coding Security](https://github.com/mialmashahreh22/vibe-coding-security) | VS Code extension experiment for Semgrep-based secure coding checks. |
 
-## Bug Report CTF Labs
+## Bug Report Simulation Labs
 
-Each repo explains one bug and includes a realistic browser-based CTF simulation where the flag unlocks after reproducing the issue safely.
+Each repo explains one bug and includes a realistic browser-based simulation where the flag unlocks after reproducing the issue safely.
 
 | Lab | Bug Class |
 |---|---|
@@ -78,11 +81,10 @@ Each repo explains one bug and includes a realistic browser-based CTF simulation
 ## Learning Path
 
 ```text
-System fundamentals -> Networking -> Web security -> Static analysis -> Bug bounty reports -> CTF labs
+System fundamentals -> Networking -> Web security -> SOC analysis -> Cloud security -> Static analysis -> Bug bounty reports
 ```
 
 ## Contact
 
 - GitHub: [@mialmashahreh22](https://github.com/mialmashahreh22)
 - Portfolio: [mialmashahreh22.github.io](https://mialmashahreh22.github.io)
-
