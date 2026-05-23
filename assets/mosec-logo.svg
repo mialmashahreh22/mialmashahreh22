@@ -31,7 +31,7 @@
     <circle cx="244" cy="254" r="20" fill="#f59e0b"/>
   </g>
   <text x="420" y="178" fill="url(#text)" font-family="Segoe UI, Arial, sans-serif" font-size="88" font-weight="900" letter-spacing="4">MOSEC</text>
-  <text x="424" y="238" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Cybersecurity • Bug Bounty • CTF Labs</text>
+  <text x="424" y="238" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Bug Bounty • SOC • Cloud Security</text>
   <g fill="none" stroke="#38bdf8" stroke-width="3" opacity="0.55">
     <path d="M430 280h96l30 36h92"/>
     <path d="M742 96h78l28 34h130"/>
