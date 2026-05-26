@@ -5,14 +5,14 @@
 <h1 align="center">Mohammad Almashahreh</h1>
 
 <p align="center">
-  <strong>Cybersecurity student focused on bug bounty, web security, SOC analysis, cloud security, static analysis, and practical security research.</strong>
+  <strong>Cybersecurity researcher focused on bug bounty, web security, SOC analysis, cloud security, static analysis, and practical security research.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mialmashahreh22?tab=repositories">
+  <a href="https://github.com/Mosec2525?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github" alt="GitHub Projects">
   </a>
-  <a href="https://mialmashahreh22.github.io">
+  <a href="https://Mosec2525.github.io">
     <img src="https://img.shields.io/badge/Portfolio-GitHub_Pages-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
   <img src="https://img.shields.io/badge/Focus-Web_Security-22C55E?style=for-the-badge" alt="Web Security">
@@ -24,7 +24,7 @@
 
 ## About Me
 
-I am a cybersecurity student building practical projects around secure coding, bug bounty methodology, web application security, SOC analysis, cloud security, Linux and Windows fundamentals, networking, and static analysis.
+I am a cybersecurity researcher building practical projects around secure coding, bug bounty methodology, web application security, SOC analysis, cloud security, Linux and Windows fundamentals, networking, and static analysis.
 
 My goal is to grow into a strong penetration tester and security researcher by creating hands-on labs, writing clear reports, and turning each security concept into something people can learn from.
 
@@ -45,11 +45,12 @@ My goal is to grow into a strong penetration tester and security researcher by c
 
 | Project | Description |
 |---|---|
-| [Static Analysis Basics for Cybersecurity](https://github.com/mialmashahreh22/static-analysis-basics-for-cybersecurity) | Colorful guide with Semgrep, YARA, secret scanning, and Code Scanner Quest. |
-| [Networking Basics for Cybersecurity](https://github.com/mialmashahreh22/networking-basics-for-cybersecurity) | Practical networking guide with Network Quest interactive lab. |
-| [Windows Filesystem Guide](https://github.com/mialmashahreh22/windows-filesystem-guide) | Windows filesystem, PowerShell, permissions, and investigation paths. |
-| [Linux Filesystem Guide](https://github.com/mialmashahreh22/linux-filesystem-guide) | Linux directories, permissions, commands, and beginner admin notes. |
-| [Vibe Coding Security](https://github.com/mialmashahreh22/vibe-coding-security) | VS Code extension experiment for Semgrep-based secure coding checks. |
+| [Static Analysis Basics for Cybersecurity](https://github.com/Mosec2525/static-analysis-basics-for-cybersecurity) | Colorful guide with Semgrep, YARA, secret scanning, and Code Scanner Quest. |
+| [Networking Basics for Cybersecurity](https://github.com/Mosec2525/networking-basics-for-cybersecurity) | Practical networking guide with Network Quest interactive lab. |
+| [Cloud Security Engineer 10 Essentials](https://github.com/Mosec2525/cloud-security-engineer-10-essentials) | Top 10 things to know before becoming a cloud security engineer. |
+| [Windows Filesystem Guide](https://github.com/Mosec2525/windows-filesystem-guide) | Windows filesystem, PowerShell, permissions, and investigation paths. |
+| [Linux Filesystem Guide](https://github.com/Mosec2525/linux-filesystem-guide) | Linux directories, permissions, commands, and beginner admin notes. |
+| [Vibe Coding Security](https://github.com/Mosec2525/vibe-coding-security) | VS Code extension experiment for Semgrep-based secure coding checks. |
 
 ## Bug Report Simulation Labs
 
@@ -57,13 +58,13 @@ Each repo explains one bug and includes a realistic browser-based simulation whe
 
 | Lab | Bug Class |
 |---|---|
-| [Email Lifecycle Business Logic Bug](https://github.com/mialmashahreh22/email-lifecycle-business-logic-bug) | Deleted account email remains locked |
-| [Password Reset Whitespace Bug](https://github.com/mialmashahreh22/password-reset-whitespace-bug) | Inconsistent password whitespace handling |
-| [Unauthorized File Deletion IDOR](https://github.com/mialmashahreh22/unauthorized-file-deletion-idor) | Missing authorization on destructive action |
-| [Ticket Reservation Business Logic Bug](https://github.com/mialmashahreh22/ticket-reservation-business-logic-bug) | Unpaid ticket hold abuse |
-| [Unsubscribe Endpoint IDOR](https://github.com/mialmashahreh22/unsubscribe-endpoint-idor) | Raw object ID used in unsubscribe flow |
-| [Reusable Email Verification Code Bug](https://github.com/mialmashahreh22/reusable-email-verification-code-bug) | Old verification codes remain valid |
-| [Unauthenticated API Token Exposure](https://github.com/mialmashahreh22/unauthenticated-api-token-exposure) | Credential endpoint exposed without login |
+| [Email Lifecycle Business Logic Bug](https://github.com/Mosec2525/email-lifecycle-business-logic-bug) | Deleted account email remains locked |
+| [Password Reset Whitespace Bug](https://github.com/Mosec2525/password-reset-whitespace-bug) | Inconsistent password whitespace handling |
+| [Unauthorized File Deletion IDOR](https://github.com/Mosec2525/unauthorized-file-deletion-idor) | Missing authorization on destructive action |
+| [Ticket Reservation Business Logic Bug](https://github.com/Mosec2525/ticket-reservation-business-logic-bug) | Unpaid ticket hold abuse |
+| [Unsubscribe Endpoint IDOR](https://github.com/Mosec2525/unsubscribe-endpoint-idor) | Raw object ID used in unsubscribe flow |
+| [Reusable Email Verification Code Bug](https://github.com/Mosec2525/reusable-email-verification-code-bug) | Old verification codes remain valid |
+| [Unauthenticated API Token Exposure](https://github.com/Mosec2525/unauthenticated-api-token-exposure) | Credential endpoint exposed without login |
 
 ## Tools I Am Practicing
 
@@ -86,5 +87,5 @@ System fundamentals -> Networking -> Web security -> SOC analysis -> Cloud secur
 
 ## Contact
 
-- GitHub: [@mialmashahreh22](https://github.com/mialmashahreh22)
-- Portfolio: [mialmashahreh22.github.io](https://mialmashahreh22.github.io)
+- GitHub: [@Mosec2525](https://github.com/Mosec2525)
+- Portfolio: [Mosec2525.github.io](https://Mosec2525.github.io)
